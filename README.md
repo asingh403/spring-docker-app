@@ -4,7 +4,7 @@
 [![Java](https://img.shields.io/badge/Java-17-orange)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.5-brightgreen)](https://spring.io/projects/spring-boot)
 
-A professional Spring Boot REST API for user management with complete CRUD operations, built with modern enterprise architecture patterns and deployed as a Docker container.
+A Spring Boot REST API for user management with complete CRUD operations, built with modern enterprise architecture patterns and deployed as a Docker container.
 
 ## 🚀 Quick Start
 
